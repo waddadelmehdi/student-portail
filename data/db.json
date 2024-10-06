@@ -1,0 +1,231 @@
+{
+  "events": [
+    {
+
+    }
+  ],
+  "cours": [
+    {
+      "id": 1,
+      "nom": "Anglais 9",
+      "coefficients": 2,
+      "module": "LANGUES 9"
+
+    },
+    {
+      "id": 2,
+      "nom": "Communication Professionnelle 3",
+      "coefficients": 2,
+      "module": "LANGUES 9"
+
+    },
+    {
+      "id": 3,
+      "nom": "Management de la qualite",
+      "coefficients": 1,
+      "module": "SCIENCES ET GESTION 5"
+
+    },
+    {
+      "id": 4,
+      "nom": "Marketing des N.T.I.C",
+      "coefficients": 1,
+      "module": "SCIENCES ET GESTION 5"
+
+    },
+    {
+      "id": 5,
+      "nom": "J2EE 2",
+      "coefficients": 4,
+      "module": "DEVELOPPEMENT 5"
+
+    },
+    {
+      "id": 6,
+      "nom": "Projet de Fin Annee",
+      "coefficients": 3,
+      "module": "DEVELOPPEMENT 5"
+
+    },
+    {
+      "id": 7,
+      "nom": "Architecture des Composants Entreprises",
+      "coefficients": 3,
+      "module": "OUTILS DE PROGRAMMATION 3"
+
+    },
+    {
+      "id": 8,
+      "nom": "Developpement Multi Plateforme",
+      "coefficients": 4,
+      "module": "OUTILS DE PROGRAMMATION 3"
+
+    },
+    {
+      "id": 9,
+      "nom": "ERP",
+      "coefficients": 3,
+      "module": "BASES DE DONNEES 4"
+
+    },
+    {
+      "id": 10,
+      "nom": "Oracle SQL Tuning",
+      "coefficients": 3,
+      "module": "BASES DE DONNEES 4"
+
+    },
+    {
+      "id": 11,
+      "nom": "Data mining et Big Data",
+      "coefficients": 4,
+      "module": "DONNEES MASSIVES"
+
+    },
+    {
+      "id": 12,
+      "nom": "Deep Learning",
+      "coefficients": 4,
+      "module": "SYSTEMES 5"
+
+    },
+    {
+      "id": 13,
+      "nom": "Securite des Systemes dInformation",
+      "coefficients": 3,
+      "module": "SYSTEMES 5"
+
+    },
+    {
+      "id": 14,
+      "nom": "Stage de perfectionnement",
+      "coefficients": 5,
+      "module": "STAGE 2"
+
+    }
+
+  ],
+  "exames": [
+    {
+     "id": 1,
+      "nom" : "Anglais 9",
+      "coefficients": 2,
+      "dure": "1h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 2,
+      "nom" : "Communication Professionnelle 3",
+      "coefficients": 2,
+      "dure": "1h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 3,
+      "nom" : "Management de la qualite",
+      "coefficients": 2,
+      "dure": "1h30",
+      "date": "05-02-24 9h30"
+    },
+    {
+      "id": 4,
+      "nom" : "Marketing des N.T.I.C",
+      "coefficients": 2,
+      "dure": "1h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 5,
+      "nom" : "J2EE 2",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 6,
+      "nom" : "Projet de Fin Annee",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 7,
+      "nom" : "Architecture des Composants Entreprises",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 8,
+      "nom" : "Developpement Multi Plateforme",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 9,
+      "nom" : "ERP",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 10,
+      "nom" : "Oracle SQL Tuning",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 11,
+      "nom" : "Data mining et Big Data",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 12,
+      "nom" : "Deep Learning",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 13,
+      "nom" : "Securite des Systemes dInformation",
+      "coefficients": 4,
+      "dure": "2h30",
+      "date": "05-02-24 14h30"
+    },
+    {
+      "id": 14,
+      "nom" : "Stage de perfectionnement",
+      "coefficients": 4,
+      "dure": "6 mois",
+      "date": "01-03-25"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "nom": "Journee Portes Ouvertes",
+      "description": "L’École marocaine des Sciences de l’Ingénieur vous donne rendez-vous le samedi 29 Juin 2024 dans ses campus pour une journée portes ouvertes.\n\nL’occasion d’échanger avec nos étudiants et professeurs, de découvrir la diversité de nos formations et de visiter nos campus.",
+      "image": "images/E1.jpg",
+      "date pub": "02-02-24"
+    },
+    {
+      "id": 2,
+      "nom": "EMSI Summer",
+      "description": "Dans le cadre du summer camp IT 2024 Le club IT de EMSI Casa organise la premiere edition une competition technologique axe sur informatique intelligence artificielle le cloud computing et la cybersécurité.\nCette compétition vise à mettre en avant l'importance de ces technologies pour résoudre les défis actuels.\nLes étudiants travailleront sur des projets pratiques validés par des entreprises partenaires et proposeront des recommandations et des solutions impactantes.",
+      "image": "images/E2.jpg",
+      "date pub": "02-03-24"
+    },
+    {
+      "id": 3,
+      "nom": "Les References EMSI",
+      "description": "Découvrez l’école Marocaine des Sciences de l’Ingénieur en quelques chiffres",
+      "image": "images/E3.jpg",
+      "date pub": "02-04-24"
+    }
+  ]
+}
